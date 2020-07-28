@@ -1,0 +1,10 @@
+G:\Project C#\OntapKtrabaiso2\de1\bin\Debug\de1.exe.config
+G:\Project C#\OntapKtrabaiso2\de1\bin\Debug\de1.exe
+G:\Project C#\OntapKtrabaiso2\de1\bin\Debug\de1.pdb
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.csprojAssemblyReference.cache
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.Form1.resources
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.Properties.Resources.resources
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.csproj.GenerateResource.cache
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.csproj.CoreCompileInputs.cache
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.exe
+G:\Project C#\OntapKtrabaiso2\de1\obj\Debug\de1.pdb
